@@ -1,0 +1,7 @@
+{
+  "name": "Kards: Digital Business Card Wallet01",
+  "description": "A sleek, modern mobile app to scan physical business cards using your camera. AI extracts and stores contact information, creating a digital wallet for your professional contacts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
